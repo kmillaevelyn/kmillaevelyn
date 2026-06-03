@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER — substitua pelo arquivo gerado no Gemini -->
-<img src="assets/banner.png" alt="Milla de Paula — Supply Chain · Data · AI" width="100%"/>
+<img src="ativos/banner.png" alt="Milla de Paula — Supply Chain · Data · AI" width="100%"/>
 
 <br/>
 

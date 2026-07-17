@@ -95,8 +95,11 @@ Minha trajetória atravessa compras hospitalares e industriais, planejamento, da
 | [`Dashboard · Impacto da IA`](https://github.com/kmillaevelyn/data-science-portfolio/tree/main/02-dashboards-visualizacao/dashboard-impacto-ia-estudantes) | Streamlit · Dados | exploração interativa com KPIs |
 | [`Hidrotech`](https://github.com/kmillaevelyn/data-science-portfolio/tree/main/04-engenharia-de-produto/hidrotech) | Produto · Indústria 4.0 | PDP completo de ducha inteligente · DFMEA · DFMA |
 | [`Supply Chain & PCM`](https://github.com/kmillaevelyn/data-science-portfolio/tree/main/05-supply-chain-pcm) | Compras · Indústria | cases reais com reduções de 10% a 55% |
+| [`Análise de Sentimento · B2W`](https://github.com/kmillaevelyn/data-science-portfolio/tree/main/03-nlp/analise-sentimento-b2w) | NLP · PT-BR | léxico vs. ML supervisionado · **89,9% de acurácia** |
+| [`Classificação Térmica de Motores · PI5`](https://github.com/kmillaevelyn/data-science-portfolio/tree/main/01-machine-learning/classificacao-termica-motores-pi5) | ML · Visão | 5 algoritmos + ensemble por voto majoritário |
+| [`Algoritmos do Zero`](https://github.com/kmillaevelyn/data-science-portfolio/tree/main/06-algoritmos-do-zero) | NumPy puro | busca em grafos, regressão e KNN sem bibliotecas de ML |
 
-> *Portfólio completo em [kmillaevelyn.github.io](https://kmillaevelyn.github.io) · 20+ notebooks em crescimento. Cada um resolve algo real.*
+> *Portfólio completo em [kmillaevelyn.github.io](https://kmillaevelyn.github.io) · **28 notebooks** — da primeira linha de Python ao ensemble de classificadores. Cada um resolve algo real.*
 
 ---
 

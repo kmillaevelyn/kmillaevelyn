@@ -25,14 +25,14 @@
 
 ## // sobre mim
 
-BCTec pela UNIFEI · Assistente de Planejamento na indústria · Ex-compradora industrial e hospitalar (Tamura Brasil · Litucera · FUVS), com reduções de custo comprovadas entre 10% e 55%.
+BCTec pela UNIFEI · Assistente de PCM e Suprimentos (atuação como Analista de PCM) na Prática Produtos S.A. · Supply Chain e Compras (industrial e hospitalar), agora com dados e IA aplicada. Reduções de custo comprovadas entre 10% e 55%.
 
 Faço perguntas que os sistemas ainda não sabem responder — e então construo as ferramentas para respondê-las.
 
 Minha trajetória atravessa compras hospitalares e industriais, planejamento, dados e IA aplicada. Não escolho entre intuição e análise: uso as duas.
 
 ```text
-▸ Posição atual   →  Assistente de Planejamento · Indústria (Pouso Alegre · MG)
+▸ Posição atual   →  Assistente de PCM e Suprimentos · Prática Produtos S.A. (Pouso Alegre · MG)
 ▸ Formação        →  BCTec UNIFEI (conclusão 2026)
 ▸ Aprendendo      →  Machine Learning · Automação com IA · LLMs
 ▸ Projetos ativos →  Supply Chain + Dados + IA Aplicada
